@@ -110,7 +110,7 @@ Assuming:
 * A = 8.83
 * bias level of the detector does not vary with time
 
-We need approximately 13 bias frames to reduce the error to less that 0.5%.
+We need approximately 170 bias frames to reduce the error to less that 0.5%.
 
 
 
@@ -374,9 +374,9 @@ Number density of stars in cluster, $n = \frac{N}{V}$
 * treating the cluster as a sphere
 * from the text file, we find that number of stars, $N = 466$
 
-We calculate, $n = 0.19 pc^{-3}$
+We calculate, $n = 1.6 pc^{-3}$
 
-In comparison, in the Sun's local environment, $n_{sun} = 1.6 pc^{-3}$ 
+In comparison, in the Sun's local environment, $n_{sun} = 0.14 pc^{-3}$ 
 
 I dabbled with looking at the other clusters: NGC1039 and NGC6939.
 
